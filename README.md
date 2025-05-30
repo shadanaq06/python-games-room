@@ -39,14 +39,3 @@ This repository contains three simple Python mini-games:
 5. Your points accumulate as you play.
 6. Choose the exit option to quit and see your total points.
 
-## Requirements
-
-* Python 3.x
-* No external libraries required.
-
-## How to Run
-
-```bash
-python mini_games.py
-```
-Replace `mini_games.py` with the name of your script file if different.
